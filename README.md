@@ -1,5 +1,3 @@
----
-
 ## Tecnologias Utilizadas
 
 ### **1. Linguagem e Frameworks**
